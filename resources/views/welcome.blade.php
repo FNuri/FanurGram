@@ -65,17 +65,15 @@
     </head>
     <body>
     <div><div><div class="container">
-                <a class="navbar-brand d-flex" href="{{ url('/') }}">
-                    <div><img src="/svg/lapzGramLogo.svg" alt="logo" style="max-height: 25px; border-right: 1px solid #333;" class="pr-3">&nbsp;&nbsp;&nbsp;&nbsp; FanurGram </div>
-                </a>
-                    
-             
+                
 
-
-        <div class="flex-center position-ref full-height">
+        <div style="position: relative;
+top: -30px;" class="flex-center position-ref full-height">
         
             @if (Route::has('login'))
                 <div class="top-right links">
+                <a href="{{ url('/') }}"><img style="position: relative;
+left: -1000px; top: 25px" src="/svg/lapzGramLogo.svg" alt="logo"></a>
                     @auth
                         <a href="{{ url('/home') }}">Home</a>
                     @else
@@ -83,6 +81,7 @@
 
                         @if (Route::has('register'))
                             <a href="{{ route('register') }}">Register</a>
+                            
                         @endif
                     @endauth
                 </div>
