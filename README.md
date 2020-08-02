@@ -1,3 +1,5 @@
+This is an Instagram clone created using the PHP web framework Laravel developed by following freeCodeCamp course. The technologies used to create this application are PHP (Laravel), Vue.js, Bootstrap, HTML and CSS.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
