@@ -93,7 +93,7 @@
                 <strong>FanurGram</strong>
                 </div>
 
-                <img class="fade" style=" margin-bottom: 50px;" class="ani-a" src="https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80" alt="Developer screen.">
+                <img class="fade" style=" margin-bottom: 50px;" class="ani-a" src="https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=400&q=80" alt="Developer screen.">
 <div></div> 
             <div class="d-flex">
               <div class="pr-5" style = "font-size: 20px;"> <strong>25</strong> posts </div>
