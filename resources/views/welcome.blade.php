@@ -93,7 +93,7 @@
                     FanurGram
                 </div>
 
-                <img class="fade" style=" margin-bottom: 50px;" class="ani-a" src="https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=200&q=80" alt="Developer screen.">
+                <img class="fade" style=" margin-bottom: 50px;" class="ani-a" src="https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80" alt="Developer screen.">
 <div></div> 
             <div class="d-flex">
               <div class="pr-5"> <strong>25</strong> posts </div>
@@ -104,7 +104,7 @@
         </div>
     </div></div>
                 <div class="links">
-                    <a href="https://fowsinur.com/" target="_blank">Home</a>
+                    <a href="https:fanurgram.herokuapp.com/" target="_blank">Home</a>
                     <a href="https://fowsinur.com/#Portfolio" target="_blank" >Portfolio</a>
                     <a href="https://fowsinur.com/#About" target="_blank">About</a>
                     <a href="https://fowsinur.com/#Contact" target="_blank">Contact</a>
