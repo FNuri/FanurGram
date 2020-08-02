@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>FanurGram</title>
+        <title><strong>FanurGram</strong></title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -90,16 +90,18 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    FanurGram
+                <strong>FanurGram</strong>
                 </div>
 
                 <img class="fade" style=" margin-bottom: 50px;" class="ani-a" src="https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80" alt="Developer screen.">
 <div></div> 
             <div class="d-flex">
-              <div class="pr-5"> <strong>25</strong> posts </div>
-              <div class="pr-5"> <strong>30K</strong> followers</div>
-              <div class="pr-5"> <strong>15</strong> following</div>  
+              <div class="pr-5" style = "font-size: 20px;"> <strong>25</strong> posts </div>
+              <div class="pr-5" style = "font-size: 20px;"> <strong>30K</strong> followers</div>
+              <div class="pr-5" style = "font-size: 20px;"> <strong>15</strong> following</div>  
             </div> 
+
+            <div><p style = "font-size: 20px;"><strong>If you enjoy spending your free time increasing your knowledge of Web Development and building fun and challenging projects, join us!</strong></p></div>
             
         </div>
     </div></div>
