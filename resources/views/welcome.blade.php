@@ -88,7 +88,7 @@ left: -1000px; top: 25px" src="/svg/lapzGramLogo.svg" alt="logo"></a>
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
+                <div class="title m-b-md" style="margin-top: 25px;">
                 <strong>FanurGram</strong>
                 </div>
 
@@ -97,7 +97,8 @@ left: -1000px; top: 25px" src="/svg/lapzGramLogo.svg" alt="logo"></a>
             <div class="d-flex">
               <div class="pr-5" style = "font-size: 20px;"> <strong>25</strong> posts </div>
               <div class="pr-5" style = "font-size: 20px;"> <strong>30K</strong> followers</div>
-              <div class="pr-5" style = "font-size: 20px;"> <strong>15</strong> following</div>  
+              <div class="pr-5" style = "font-size: 20px;"> <strong>15</strong> following</div> 
+              <button style="background: #d8dde6; font-size: 15px;" type="submit" class="btn btn-primary"><a href="{{ route('login') }}">Follow</a></button> 
             </div> 
 
             <div><p style = "font-size: 20px;"><strong>If you enjoy spending your free time increasing your knowledge of Web Development and building fun and challenging projects, join us!</strong></p></div>
