@@ -34,3 +34,7 @@ Route::get('/profile/{user}/edit', 'ProfilesController@edit')->name('profile.edi
 
 Route::post('/follow/{user}', 'FollowsController@store');
 
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

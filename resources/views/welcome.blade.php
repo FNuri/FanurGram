@@ -109,6 +109,7 @@ left: -1000px; top: 25px" src="/svg/lapzGramLogo.svg" alt="logo"></a>
             <div><p style = "font-size: 20px;"><strong>If you enjoy spending your free time increasing your knowledge of Web Development and building fun and challenging projects, join us!</strong></p></div>
             
         </div>
+    
     </div></div>
                 <div style="margin-top: 100px;" class="links">
                     <a href="https:fanurgram.herokuapp.com/">Home</a>
