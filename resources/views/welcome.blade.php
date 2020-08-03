@@ -110,7 +110,7 @@ left: -1000px; top: 25px" src="/svg/lapzGramLogo.svg" alt="logo"></a>
             
         </div>
     </div></div>
-                <div class="links">
+                <div style="margin-top: 100px;" class="links">
                     <a href="https:fanurgram.herokuapp.com/">Home</a>
                     <a href="https://fowsinur.com/#Portfolio" target="_blank" >Portfolio</a>
                     <a href="https://fowsinur.com/#About" target="_blank">About</a>
