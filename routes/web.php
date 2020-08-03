@@ -38,3 +38,7 @@ Route::post('/follow/{user}', 'FollowsController@store');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
