@@ -9,7 +9,7 @@ This is an Instagram clone created using the PHP web framework Laravel developed
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-![FanurGram Website Screenshot](https://github.com/FNuri/Fanur-Technology-Website/blob/master/fnurimages/FanurGram%20Screenshot.png)
+![FanurGram Website Screenshot](https://github.com/FNuri/Fanur-Technology-Website/blob/master/fnurimages/FanurGram%20screenshot.png)
 
 ## About Laravel
 
