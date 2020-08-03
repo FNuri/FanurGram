@@ -2,7 +2,7 @@
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>FanurGram</title>
 
@@ -65,7 +65,12 @@
     </head>
     <body>
     <div><div><div class="container">
-                
+    <div class="row">
+        <div class="col-3 p-5">
+            <img src="https://instagram.fcmb1-1.fna.fbcdn.net/vp/d9386c6a0285c12c20c626afc93da96a/5E10DA40/t51.2885-19/s150x150/26158931_171113673637309_1919775876514316288_n.jpg?_nc_ht=instagram.fcmb1-1.fna.fbcdn.net" alt="" class="rounded-circle">
+        </div>
+        <div class="col-9 pt-5">
+        <div>
 
         <div style="position: relative;
 top: -30px;" class="flex-center position-ref full-height">
@@ -100,7 +105,7 @@ left: -1000px; top: 25px" src="/svg/lapzGramLogo.svg" alt="logo"></a>
               <div class="pr-5" style = "font-size: 20px;"> <strong>15</strong> following</div> 
               <button style="background: #d8dde6; font-size: 15px;" type="submit" class="btn btn-primary"><a href="{{ route('login') }}">Follow</a></button> 
             </div> 
-
+            
             <div><p style = "font-size: 20px;"><strong>If you enjoy spending your free time increasing your knowledge of Web Development and building fun and challenging projects, join us!</strong></p></div>
             
         </div>
